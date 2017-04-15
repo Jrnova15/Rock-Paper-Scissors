@@ -1,8 +1,7 @@
-#Author: Sal DeMarco, Jr.
+
 #Date: 12/8/2015
 #Final Project: Make Rock - Paper - Scissors a GUI Game.
-#Course: CSC 1010 Programming for All
-#Instructor: Dr. Thomas Way
+
 
 from tkinter import *
 import tkinter.messagebox
